@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Portfolio website built using HTML, Tailwind CSS (via CDN), JavaScript.
 
